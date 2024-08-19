@@ -1,0 +1,1 @@
+{"animals": [{"name": "Parrot", "age": 2, "type": "Bird"}, {"name": "Lion", "age": 5, "type": "Mammal"}, {"name": "Snake", "age": 3, "type": "Reptile"}], "employees": ["Alice", "Bob"]}
